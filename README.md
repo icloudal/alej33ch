@@ -22,7 +22,7 @@ I’m an **IT Administrator** and a **programmer** with a deep interest in **cyb
 
 
 ## ⚡ Fun Fact
-When I’m not working on IT systems or coding, I enjoy exploring new tech gadgets, gaming, and diving into sci-fi novels. I’m also an avid coffee enthusiast!
+When I’m not working on IT systems or coding, I enjoy exploring new tech gadgets, and scuba diving. I’m also an avid coffee enthusiast!
 
 ---
 
