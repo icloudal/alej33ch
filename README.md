@@ -1,17 +1,21 @@
 # 👋 Hi, I’m @alej33ch
 
 ## 👀 About Me
-I’m an **IT Administrator** and a **programmer** with a passion for technology, problem-solving, and creating efficient solutions. My expertise lies in managing IT infrastructures and developing software to optimize workflows.
+I’m an **IT Administrator** and a **programmer** with a deep interest in **cybersecurity** and **digital forensics**. My passion lies in protecting digital environments, analyzing data for vulnerabilities, and creating secure, efficient systems. With a strong foundation in IT infrastructure and software development, I thrive at the intersection of technology and security.
 
 ## 🌱 Currently Learning
-- Cloud computing platforms like AWS and Azure
-- Advanced Python for automation and backend development
-- Cybersecurity and best practices / frameworks
+- **Cybersecurity Specializations:** Ethical hacking, penetration testing, and threat intelligence.
+- **Digital Forensics:** Techniques for investigating digital incidents and securing evidence.
+- **Cloud Security:** Enhancing security for cloud platforms like AWS and Azure.
+- **Advanced Python:** For automation, security scripting, and forensic tools development.
+- **DevOps Practices:** Containerization with Docker, orchestration with Kubernetes, and CI/CD pipelines.
 
 ## 💞️ Looking to Collaborate On
-- Open-source projects related to IT automation or infrastructure management
-- Tools and applications that streamline administrative tasks
-- Cross-disciplinary projects where tech meets creativity
+- Open-source cybersecurity tools and frameworks.
+- Projects involving **digital forensics** and incident response.
+- Development of security-focused automation scripts.
+- Cybersecurity awareness and training initiatives.
+
 
 ## 📫 How to Reach Me
 - **GitHub:** [github.com/alej33ch](https://github.com/alej33ch)
